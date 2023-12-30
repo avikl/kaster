@@ -1,0 +1,8 @@
+2023/09/15-09:01:25.495 e260 Recovering log #22
+2023/09/15-09:01:25.500 e260 Delete type=0 #22
+2023/09/15-09:01:25.500 e260 Delete type=3 #20
+2023/09/15-15:46:27.070 7b68 Level-0 table #27: started
+2023/09/15-15:46:27.070 7b68 Level-0 table #27: 0 bytes OK
+2023/09/15-15:46:27.071 7b68 Delete type=0 #25
+2023/09/15-15:46:27.072 7b68 Manual compaction at level-0 from '!journal!nrzRMUnvDX7n4utv' @ 72057594037927935 : 1 .. '!journal!vr4FGdDTMRmV9WUu' @ 0 : 0; will stop at (end)
+2023/09/15-15:46:27.081 7b68 Manual compaction at level-1 from '!journal!nrzRMUnvDX7n4utv' @ 72057594037927935 : 1 .. '!journal!vr4FGdDTMRmV9WUu' @ 0 : 0; will stop at (end)
