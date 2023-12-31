@@ -134,7 +134,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      }
+      },
+      "system": "D35E"
     },
     {
       "name": "spells",
@@ -158,5 +159,14 @@
     {
       "name": "Kolnore"
     }
-  ]
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "D35E",
+        "type": "system"
+      }
+    ]
+  },
+  "url": "https://github.com/avikl/kaster/tree/main/"
 }
